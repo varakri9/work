@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "vas",
+      "fn": "vas",
+      "lsn": "vas",
+      "em": "va@co.co",
+      "da": "2022-04-16",
+      "mo": "9099999999"
+    },
+    {
+      "id": "ha",
+      "fn": "ha",
+      "lsn": "ha",
+      "em": "ha@co.ka",
+      "da": "2022-04-22",
+      "mo": "9099999998"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
